@@ -40,8 +40,7 @@ class UserHandler:
 class MovieHandler:
     def __init__(self, json_handler):
         self.json_handler = json_handler
-        self.movie_ids = self.get_movies_from_json(self.json_handler)['ids']
-        self.movie_dict = self.get_movies_from_json(self.json_handler)['movies']
+        self.movie_dict = self.get_movies_from_json(self.json_handler)
 
     def get_movies_from_json(self, json_handler: JsonHandler):
         return json_handler.read_movies()

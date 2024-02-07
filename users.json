@@ -88,563 +88,9 @@
             ]
         ]
     },
-    "japabulldog": {
-        "username": "japabulldog",
-        "watchlist_length": "135",
-        "favorites": [],
-        "stats": {
-            "Films": "95",
-            "This year": "3",
-            "Lists": "6",
-            "Following": "1",
-            "Followers": "2"
-        },
-        "watchlist": [
-            [
-                "Wish",
-                "wish-2023"
-            ],
-            [
-                "Saltburn",
-                "saltburn"
-            ],
-            [
-                "Judas and the Black Messiah",
-                "judas-and-the-black-messiah"
-            ],
-            [
-                "Dune: Part Two",
-                "dune-part-two"
-            ],
-            [
-                "Dune",
-                "dune-2021"
-            ],
-            [
-                "Coraline",
-                "coraline"
-            ],
-            [
-                "Love Actually",
-                "love-actually"
-            ],
-            [
-                "Moonrise Kingdom",
-                "moonrise-kingdom"
-            ],
-            [
-                "Asteroid City",
-                "asteroid-city"
-            ],
-            [
-                "Birdman",
-                "birdman"
-            ],
-            [
-                "Now You See Me 2",
-                "now-you-see-me-2"
-            ],
-            [
-                "Now You See Me",
-                "now-you-see-me"
-            ],
-            [
-                "Scott Pilgrim vs. the World",
-                "scott-pilgrim-vs-the-world"
-            ],
-            [
-                "Florence Foster Jenkins",
-                "florence-foster-jenkins"
-            ],
-            [
-                "Catch Me If You Can",
-                "catch-me-if-you-can-2002"
-            ],
-            [
-                "Puss in Boots: The Last Wish",
-                "puss-in-boots-the-last-wish"
-            ],
-            [
-                "Lucy",
-                "lucy-2014"
-            ],
-            [
-                "Lost in Translation",
-                "lost-in-translation"
-            ],
-            [
-                "Prisoners",
-                "prisoners"
-            ],
-            [
-                "Paddington",
-                "paddington"
-            ],
-            [
-                "The Truman Show",
-                "the-truman-show"
-            ],
-            [
-                "John Wick",
-                "john-wick"
-            ],
-            [
-                "Drive",
-                "drive-2011"
-            ],
-            [
-                "Arrival",
-                "arrival-2016"
-            ],
-            [
-                "No Hard Feelings",
-                "no-hard-feelings-2023"
-            ],
-            [
-                "The Italian Job",
-                "the-italian-job"
-            ],
-            [
-                "Pulp Fiction",
-                "pulp-fiction"
-            ],
-            [
-                "How to Train Your Dragon",
-                "how-to-train-your-dragon"
-            ],
-            [
-                "The Lorax",
-                "the-lorax-2012"
-            ],
-            [
-                "Little Women",
-                "little-women-2019"
-            ],
-            [
-                "Django Unchained",
-                "django-unchained"
-            ],
-            [
-                "Lincoln",
-                "lincoln"
-            ],
-            [
-                "Don Jon",
-                "don-jon"
-            ],
-            [
-                "Zodiac",
-                "zodiac"
-            ],
-            [
-                "Bottoms",
-                "bottoms"
-            ],
-            [
-                "The Prestige",
-                "the-prestige"
-            ],
-            [
-                "A Haunting in Venice",
-                "a-haunting-in-venice"
-            ],
-            [
-                "American History X",
-                "american-history-x"
-            ],
-            [
-                "Spirited Away",
-                "spirited-away"
-            ],
-            [
-                "Black Swan",
-                "black-swan"
-            ],
-            [
-                "The Boy, the Mole, the Fox and the Horse",
-                "the-boy-the-mole-the-fox-and-the-horse"
-            ],
-            [
-                "Good Morning, Vietnam",
-                "good-morning-vietnam"
-            ],
-            [
-                "Tenet",
-                "tenet"
-            ],
-            [
-                "The Dark Knight",
-                "the-dark-knight"
-            ],
-            [
-                "Joker",
-                "joker-2019"
-            ],
-            [
-                "Inglourious Basterds",
-                "inglourious-basterds"
-            ],
-            [
-                "Air",
-                "air-2023"
-            ],
-            [
-                "2036: Nexus Dawn",
-                "2036-nexus-dawn"
-            ],
-            [
-                "2048: Nowhere to Run",
-                "2048-nowhere-to-run"
-            ],
-            [
-                "Blade Runner 2049",
-                "blade-runner-2049"
-            ],
-            [
-                "Dear Evan Hansen",
-                "dear-evan-hansen"
-            ],
-            [
-                "The Phantom of the Opera",
-                "the-phantom-of-the-opera-2004"
-            ],
-            [
-                "A Beautiful Mind",
-                "a-beautiful-mind"
-            ],
-            [
-                "National Treasure",
-                "national-treasure"
-            ],
-            [
-                "The Parent Trap",
-                "the-parent-trap-1998"
-            ],
-            [
-                "Encanto",
-                "encanto"
-            ],
-            [
-                "Beauty and the Beast",
-                "beauty-and-the-beast-1991"
-            ],
-            [
-                "The Little Mermaid",
-                "the-little-mermaid"
-            ],
-            [
-                "The Fox and the Hound",
-                "the-fox-and-the-hound"
-            ],
-            [
-                "The Many Adventures of Winnie the Pooh",
-                "the-many-adventures-of-winnie-the-pooh"
-            ],
-            [
-                "Luca",
-                "luca-2021"
-            ],
-            [
-                "Lightyear",
-                "lightyear-2022"
-            ],
-            [
-                "Turning Red",
-                "turning-red"
-            ],
-            [
-                "Fight Club",
-                "fight-club"
-            ],
-            [
-                "Ronin",
-                "ronin"
-            ],
-            [
-                "Se7en",
-                "se7en"
-            ],
-            [
-                "The Tragedy of Macbeth",
-                "the-tragedy-of-macbeth"
-            ],
-            [
-                "Four Good Days",
-                "four-good-days"
-            ],
-            [
-                "Babylon",
-                "babylon-2022"
-            ],
-            [
-                "The Fabelmans",
-                "the-fabelmans"
-            ],
-            [
-                "Triangle of Sadness",
-                "triangle-of-sadness"
-            ],
-            [
-                "The Banshees of Inisherin",
-                "the-banshees-of-inisherin"
-            ],
-            [
-                "Women Talking",
-                "women-talking"
-            ],
-            [
-                "Blonde",
-                "blonde-2022"
-            ],
-            [
-                "T\u00c1R",
-                "tar-2022"
-            ],
-            [
-                "All Quiet on the Western Front",
-                "all-quiet-on-the-western-front-2022"
-            ],
-            [
-                "Gladiator",
-                "gladiator-2000"
-            ],
-            [
-                "Moneyball",
-                "moneyball"
-            ],
-            [
-                "The Theory of Everything",
-                "the-theory-of-everything-2014"
-            ],
-            [
-                "The Disaster Artist",
-                "the-disaster-artist"
-            ],
-            [
-                "The Trial of the Chicago 7",
-                "the-trial-of-the-chicago-7"
-            ],
-            [
-                "Monty Python and the Holy Grail",
-                "monty-python-and-the-holy-grail"
-            ],
-            [
-                "Hacksaw Ridge",
-                "hacksaw-ridge"
-            ],
-            [
-                "House of Gucci",
-                "house-of-gucci"
-            ],
-            [
-                "Drive My Car",
-                "drive-my-car"
-            ],
-            [
-                "Boyhood",
-                "boyhood"
-            ],
-            [
-                "The Green Knight",
-                "the-green-knight"
-            ],
-            [
-                "Elvis",
-                "elvis-2022"
-            ],
-            [
-                "BlacKkKlansman",
-                "blackkklansman"
-            ],
-            [
-                "Gone Girl",
-                "gone-girl"
-            ],
-            [
-                "The Shining",
-                "the-shining"
-            ],
-            [
-                "The Whale",
-                "the-whale-2022"
-            ],
-            [
-                "Blade Runner",
-                "blade-runner"
-            ],
-            [
-                "Soul",
-                "soul-2020"
-            ],
-            [
-                "Top Gun",
-                "top-gun"
-            ],
-            [
-                "Top Gun: Maverick",
-                "top-gun-maverick"
-            ],
-            [
-                "Million Dollar Baby",
-                "million-dollar-baby"
-            ],
-            [
-                "Crash",
-                "crash-2004"
-            ],
-            [
-                "No Country for Old Men",
-                "no-country-for-old-men"
-            ],
-            [
-                "Slumdog Millionaire",
-                "slumdog-millionaire"
-            ],
-            [
-                "The Hurt Locker",
-                "the-hurt-locker"
-            ],
-            [
-                "12 Years a Slave",
-                "12-years-a-slave"
-            ],
-            [
-                "The Wolf of Wall Street",
-                "the-wolf-of-wall-street"
-            ],
-            [
-                "Spotlight",
-                "spotlight"
-            ],
-            [
-                "Birdman or (The Unexpected Virtue of Ignorance)",
-                "birdman-or-the-unexpected-virtue-of-ignorance"
-            ],
-            [
-                "The King's Speech",
-                "the-kings-speech"
-            ],
-            [
-                "Moonlight",
-                "moonlight-2016"
-            ],
-            [
-                "Nomadland",
-                "nomadland"
-            ],
-            [
-                "CODA",
-                "coda-2021"
-            ],
-            [
-                "Driving Miss Daisy",
-                "driving-miss-daisy"
-            ],
-            [
-                "My Policeman",
-                "my-policeman"
-            ],
-            [
-                "Glass Onion",
-                "glass-onion"
-            ],
-            [
-                "Knives Out",
-                "knives-out-2019"
-            ],
-            [
-                "Crouching Tiger, Hidden Dragon",
-                "crouching-tiger-hidden-dragon"
-            ],
-            [
-                "Avatar: The Way of Water",
-                "avatar-the-way-of-water"
-            ],
-            [
-                "The Green Mile",
-                "the-green-mile"
-            ],
-            [
-                "Get Out",
-                "get-out-2017"
-            ],
-            [
-                "Nope",
-                "nope"
-            ],
-            [
-                "Call Me by Your Name",
-                "call-me-by-your-name"
-            ],
-            [
-                "Avatar",
-                "avatar"
-            ],
-            [
-                "Dunkirk",
-                "dunkirk-2017"
-            ],
-            [
-                "My Neighbor Totoro",
-                "my-neighbor-totoro"
-            ],
-            [
-                "The Social Network",
-                "the-social-network"
-            ],
-            [
-                "Lord of the Flies",
-                "lord-of-the-flies-1990"
-            ],
-            [
-                "Casino Royale",
-                "casino-royale-2006"
-            ],
-            [
-                "No Time to Die",
-                "no-time-to-die-2021"
-            ],
-            [
-                "It's a Wonderful Life",
-                "its-a-wonderful-life"
-            ],
-            [
-                "Back to the Future",
-                "back-to-the-future"
-            ],
-            [
-                "2001: A Space Odyssey",
-                "2001-a-space-odyssey"
-            ],
-            [
-                "Don't Worry Darling",
-                "dont-worry-darling"
-            ],
-            [
-                "The Godfather",
-                "the-godfather"
-            ],
-            [
-                "Toy Story 4",
-                "toy-story-4"
-            ],
-            [
-                "Kung Fu Panda 3",
-                "kung-fu-panda-3"
-            ],
-            [
-                "Jojo Rabbit",
-                "jojo-rabbit"
-            ],
-            [
-                "Titanic",
-                "titanic-1997"
-            ]
-        ]
-    },
     "theuncommonnerd": {
         "username": "theuncommonnerd",
-        "watchlist_length": "689",
+        "watchlist_length": "690",
         "favorites": [
             [
                 "Your Name.",
@@ -670,6 +116,10 @@
             "Follower": "1"
         },
         "watchlist": [
+            [
+                "The Mitchells vs. The Machines",
+                "the-mitchells-vs-the-machines"
+            ],
             [
                 "Detachment",
                 "detachment"
@@ -3425,6 +2875,2799 @@
             [
                 "Harakiri",
                 "harakiri"
+            ]
+        ]
+    },
+    "egosumignarum": {
+        "username": "egosumignarum",
+        "watchlist_length": "552",
+        "favorites": [
+            [
+                "12 Angry Men",
+                "12-angry-men"
+            ],
+            [
+                "Parasite",
+                "parasite-2019"
+            ],
+            [
+                "Whiplash",
+                "whiplash-2014"
+            ],
+            [
+                "The Pianist",
+                "the-pianist"
+            ]
+        ],
+        "stats": {
+            "Films": "296",
+            "This year": "11",
+            "List": "1",
+            "Following": "1",
+            "Follower": "1"
+        },
+        "watchlist": [
+            [
+                "Safe",
+                "safe"
+            ],
+            [
+                "28 Days Later",
+                "28-days-later"
+            ],
+            [
+                "The Man Who Fell to Earth",
+                "the-man-who-fell-to-earth"
+            ],
+            [
+                "Cries and Whispers",
+                "cries-and-whispers"
+            ],
+            [
+                "To Wong Foo, Thanks for Everything! Julie Newmar",
+                "to-wong-foo-thanks-for-everything-julie-newmar"
+            ],
+            [
+                "The Last Duel",
+                "the-last-duel-2021"
+            ],
+            [
+                "The Umbrellas of Cherbourg",
+                "the-umbrellas-of-cherbourg"
+            ],
+            [
+                "H\u00e4xan",
+                "haxan"
+            ],
+            [
+                "Viridiana",
+                "viridiana"
+            ],
+            [
+                "Stagecoach",
+                "stagecoach"
+            ],
+            [
+                "Tetsuo: The Iron Man",
+                "tetsuo-the-iron-man"
+            ],
+            [
+                "I, Tonya",
+                "i-tonya"
+            ],
+            [
+                "Brooklyn",
+                "brooklyn"
+            ],
+            [
+                "The Gospel According to St. Matthew",
+                "the-gospel-according-to-st-matthew"
+            ],
+            [
+                "Blue Velvet",
+                "blue-velvet"
+            ],
+            [
+                "Atonement",
+                "atonement"
+            ],
+            [
+                "Carlito's Way",
+                "carlitos-way"
+            ],
+            [
+                "The Insider",
+                "the-insider"
+            ],
+            [
+                "A Bronx Tale",
+                "a-bronx-tale"
+            ],
+            [
+                "My Cousin Vinny",
+                "my-cousin-vinny"
+            ],
+            [
+                "Love Streams",
+                "love-streams"
+            ],
+            [
+                "The Zone of Interest",
+                "the-zone-of-interest"
+            ],
+            [
+                "The Iron Claw",
+                "the-iron-claw-2023"
+            ],
+            [
+                "The Color of Money",
+                "the-color-of-money"
+            ],
+            [
+                "Gangs of New York",
+                "gangs-of-new-york-2002"
+            ],
+            [
+                "I'm Not There",
+                "im-not-there"
+            ],
+            [
+                "Y Tu Mam\u00e1 Tambi\u00e9n",
+                "y-tu-mama-tambien"
+            ],
+            [
+                "The Deer Hunter",
+                "the-deer-hunter"
+            ],
+            [
+                "Gosford Park",
+                "gosford-park"
+            ],
+            [
+                "Fox and His Friends",
+                "fox-and-his-friends"
+            ],
+            [
+                "Early Spring",
+                "early-spring"
+            ],
+            [
+                "The End of Summer",
+                "the-end-of-summer"
+            ],
+            [
+                "Equinox Flower",
+                "equinox-flower"
+            ],
+            [
+                "The Only Son",
+                "the-only-son"
+            ],
+            [
+                "The Flavor of Green Tea Over Rice",
+                "the-flavor-of-green-tea-over-rice"
+            ],
+            [
+                "Late Autumn",
+                "late-autumn"
+            ],
+            [
+                "I Was Born, But...",
+                "i-was-born-but"
+            ],
+            [
+                "Floating Weeds",
+                "floating-weeds"
+            ],
+            [
+                "Early Summer",
+                "early-summer"
+            ],
+            [
+                "Tokyo Twilight",
+                "tokyo-twilight"
+            ],
+            [
+                "Nimona",
+                "nimona-2023"
+            ],
+            [
+                "Burning",
+                "burning-2018"
+            ],
+            [
+                "Young Frankenstein",
+                "young-frankenstein"
+            ],
+            [
+                "Twin Peaks: Fire Walk with Me",
+                "twin-peaks-fire-walk-with-me"
+            ],
+            [
+                "Twin Peaks: The Return",
+                "twin-peaks-the-return"
+            ],
+            [
+                "Lost in Translation",
+                "lost-in-translation"
+            ],
+            [
+                "Blood Simple",
+                "blood-simple"
+            ],
+            [
+                "A Serious Man",
+                "a-serious-man"
+            ],
+            [
+                "Raising Arizona",
+                "raising-arizona"
+            ],
+            [
+                "The Ballad of Buster Scruggs",
+                "the-ballad-of-buster-scruggs"
+            ],
+            [
+                "Chicken Run",
+                "chicken-run"
+            ],
+            [
+                "Anatomy of a Fall",
+                "anatomy-of-a-fall"
+            ],
+            [
+                "Poor Things",
+                "poor-things-2023"
+            ],
+            [
+                "Whisper of the Heart",
+                "whisper-of-the-heart"
+            ],
+            [
+                "Only Yesterday",
+                "only-yesterday"
+            ],
+            [
+                "Chicago",
+                "chicago"
+            ],
+            [
+                "Once Upon a Time in Anatolia",
+                "once-upon-a-time-in-anatolia"
+            ],
+            [
+                "WALL\u00b7E",
+                "walle"
+            ],
+            [
+                "The Killing of a Sacred Deer",
+                "the-killing-of-a-sacred-deer"
+            ],
+            [
+                "First Reformed",
+                "first-reformed"
+            ],
+            [
+                "Cabaret",
+                "cabaret"
+            ],
+            [
+                "Bringing Out the Dead",
+                "bringing-out-the-dead"
+            ],
+            [
+                "The Last Black Man in San Francisco",
+                "the-last-black-man-in-san-francisco"
+            ],
+            [
+                "Before Midnight",
+                "before-midnight"
+            ],
+            [
+                "L.A. Confidential",
+                "la-confidential"
+            ],
+            [
+                "Good Time",
+                "good-time"
+            ],
+            [
+                "Bottoms",
+                "bottoms"
+            ],
+            [
+                "Adaptation.",
+                "adaptation"
+            ],
+            [
+                "Alice Doesn't Live Here Anymore",
+                "alice-doesnt-live-here-anymore"
+            ],
+            [
+                "The Taking of Pelham One Two Three",
+                "the-taking-of-pelham-one-two-three"
+            ],
+            [
+                "Night of the Living Dead",
+                "night-of-the-living-dead"
+            ],
+            [
+                "Judas and the Black Messiah",
+                "judas-and-the-black-messiah"
+            ],
+            [
+                "The Texas Chain Saw Massacre",
+                "the-texas-chain-saw-massacre"
+            ],
+            [
+                "Crash",
+                "crash"
+            ],
+            [
+                "The Florida Project",
+                "the-florida-project"
+            ],
+            [
+                "Carol",
+                "carol-2015"
+            ],
+            [
+                "Poison",
+                "poison-2023"
+            ],
+            [
+                "The Rat Catcher",
+                "the-rat-catcher-2023"
+            ],
+            [
+                "The Swan",
+                "the-swan-2023"
+            ],
+            [
+                "Garth Marenghi's Darkplace",
+                "garth-marenghis-darkplace"
+            ],
+            [
+                "Soul",
+                "soul-2020"
+            ],
+            [
+                "The Green Knight",
+                "the-green-knight"
+            ],
+            [
+                "After Yang",
+                "after-yang"
+            ],
+            [
+                "In a Lonely Place",
+                "in-a-lonely-place"
+            ],
+            [
+                "Germinal",
+                "germinal"
+            ],
+            [
+                "Contempt",
+                "contempt"
+            ],
+            [
+                "Vivre Sa Vie",
+                "vivre-sa-vie"
+            ],
+            [
+                "Minari",
+                "minari"
+            ],
+            [
+                "Afire",
+                "afire"
+            ],
+            [
+                "Happy as Lazzaro",
+                "happy-as-lazzaro"
+            ],
+            [
+                "Amarcord",
+                "amarcord"
+            ],
+            [
+                "La Strada",
+                "la-strada"
+            ],
+            [
+                "The Movie Critic",
+                "the-movie-critic"
+            ],
+            [
+                "Le Samoura\u00ef",
+                "le-samourai"
+            ],
+            [
+                "Last Year at Marienbad",
+                "last-year-at-marienbad"
+            ],
+            [
+                "Titane",
+                "titane"
+            ],
+            [
+                "Paisan",
+                "paisan"
+            ],
+            [
+                "Germany Year Zero",
+                "germany-year-zero"
+            ],
+            [
+                "Rome, Open City",
+                "rome-open-city"
+            ],
+            [
+                "2046",
+                "2046"
+            ],
+            [
+                "The Big Short",
+                "the-big-short"
+            ],
+            [
+                "Enemy",
+                "enemy"
+            ],
+            [
+                "Paid in Full",
+                "paid-in-full-2002"
+            ],
+            [
+                "Burn After Reading",
+                "burn-after-reading"
+            ],
+            [
+                "The Tragedy of Macbeth",
+                "the-tragedy-of-macbeth"
+            ],
+            [
+                "The Last of the Mohicans",
+                "the-last-of-the-mohicans-1992"
+            ],
+            [
+                "The Age of Innocence",
+                "the-age-of-innocence"
+            ],
+            [
+                "Mean Streets",
+                "mean-streets"
+            ],
+            [
+                "Cape Fear",
+                "cape-fear-1991"
+            ],
+            [
+                "Papillon",
+                "papillon"
+            ],
+            [
+                "Almost Famous",
+                "almost-famous"
+            ],
+            [
+                "The Girl with the Dragon Tattoo",
+                "the-girl-with-the-dragon-tattoo-2011"
+            ],
+            [
+                "The Whale",
+                "the-whale-2022"
+            ],
+            [
+                "Triangle of Sadness",
+                "triangle-of-sadness"
+            ],
+            [
+                "Symbiopsychotaxiplasm: Take One",
+                "symbiopsychotaxiplasm-take-one"
+            ],
+            [
+                "Hard Eight",
+                "hard-eight"
+            ],
+            [
+                "Inherent Vice",
+                "inherent-vice"
+            ],
+            [
+                "Anima",
+                "anima-2019"
+            ],
+            [
+                "Licorice Pizza",
+                "licorice-pizza"
+            ],
+            [
+                "The Souvenir",
+                "the-souvenir"
+            ],
+            [
+                "Top Gun: Maverick",
+                "top-gun-maverick"
+            ],
+            [
+                "Lady Vengeance",
+                "lady-vengeance"
+            ],
+            [
+                "Decision to Leave",
+                "decision-to-leave"
+            ],
+            [
+                "The Northman",
+                "the-northman"
+            ],
+            [
+                "Memoria",
+                "memoria-2011"
+            ],
+            [
+                "The Worst Person in the World",
+                "the-worst-person-in-the-world"
+            ],
+            [
+                "Bones and All",
+                "bones-and-all"
+            ],
+            [
+                "Lincoln",
+                "lincoln"
+            ],
+            [
+                "The Wonderful Story of Henry Sugar",
+                "the-wonderful-story-of-henry-sugar"
+            ],
+            [
+                "Green Room",
+                "green-room"
+            ],
+            [
+                "Palm Springs",
+                "palm-springs-2020"
+            ],
+            [
+                "Detachment",
+                "detachment"
+            ],
+            [
+                "Being John Malkovich",
+                "being-john-malkovich"
+            ],
+            [
+                "The Virgin Suicides",
+                "the-virgin-suicides"
+            ],
+            [
+                "Girlhood",
+                "girlhood-2014"
+            ],
+            [
+                "Tomboy",
+                "tomboy-2011"
+            ],
+            [
+                "Petite Maman",
+                "petite-maman"
+            ],
+            [
+                "Point Break",
+                "point-break"
+            ],
+            [
+                "Strange Days",
+                "strange-days"
+            ],
+            [
+                "The Witch",
+                "the-witch-2015"
+            ],
+            [
+                "La Commune (Paris, 1871)",
+                "la-commune-paris-1871"
+            ],
+            [
+                "The Weeping Meadow",
+                "the-weeping-meadow"
+            ],
+            [
+                "The Fifth Seal",
+                "the-fifth-seal"
+            ],
+            [
+                "The Elephant Man",
+                "the-elephant-man"
+            ],
+            [
+                "The Quiet Girl",
+                "the-quiet-girl"
+            ],
+            [
+                "Swiss Army Man",
+                "swiss-army-man"
+            ],
+            [
+                "Wildlife",
+                "wildlife-2018"
+            ],
+            [
+                "Love & Mercy",
+                "love-mercy"
+            ],
+            [
+                "The Aviator",
+                "the-aviator"
+            ],
+            [
+                "Lilya 4-ever",
+                "lilya-4-ever"
+            ],
+            [
+                "13th",
+                "13th"
+            ],
+            [
+                "La C\u00e9r\u00e9monie",
+                "la-ceremonie"
+            ],
+            [
+                "The Tree of Life",
+                "the-tree-of-life-2011"
+            ],
+            [
+                "A Ghost Story",
+                "a-ghost-story-2017"
+            ],
+            [
+                "Ocean's Eleven",
+                "oceans-eleven-2001"
+            ],
+            [
+                "Guillermo del Toro's Pinocchio",
+                "guillermo-del-toros-pinocchio"
+            ],
+            [
+                "Persepolis",
+                "persepolis"
+            ],
+            [
+                "The Turin Horse",
+                "the-turin-horse"
+            ],
+            [
+                "They Cloned Tyrone",
+                "they-cloned-tyrone"
+            ],
+            [
+                "Saint Omer",
+                "saint-omer"
+            ],
+            [
+                "The Spook Who Sat by the Door",
+                "the-spook-who-sat-by-the-door"
+            ],
+            [
+                "Babylon",
+                "babylon-2022"
+            ],
+            [
+                "After Life",
+                "after-life"
+            ],
+            [
+                "Blue Collar",
+                "blue-collar"
+            ],
+            [
+                "The Host",
+                "the-host"
+            ],
+            [
+                "Melancholia",
+                "melancholia"
+            ],
+            [
+                "Let the Right One In",
+                "let-the-right-one-in"
+            ],
+            [
+                "Dogtooth",
+                "dogtooth"
+            ],
+            [
+                "Kagemusha",
+                "kagemusha"
+            ],
+            [
+                "Dersu Uzala",
+                "dersu-uzala"
+            ],
+            [
+                "Dreams",
+                "dreams"
+            ],
+            [
+                "Drunken Angel",
+                "drunken-angel"
+            ],
+            [
+                "F for Fake",
+                "f-for-fake"
+            ],
+            [
+                "Edge of Tomorrow",
+                "edge-of-tomorrow"
+            ],
+            [
+                "4 Little Girls",
+                "4-little-girls"
+            ],
+            [
+                "David Byrne's American Utopia",
+                "david-byrnes-american-utopia"
+            ],
+            [
+                "When the Levees Broke: A Requiem in Four Acts",
+                "when-the-levees-broke-a-requiem-in-four-acts"
+            ],
+            [
+                "In Bruges",
+                "in-bruges"
+            ],
+            [
+                "Malcolm X",
+                "malcolm-x-1992"
+            ],
+            [
+                "Slumdog Millionaire",
+                "slumdog-millionaire"
+            ],
+            [
+                "Barbie",
+                "barbie"
+            ],
+            [
+                "On the Waterfront",
+                "on-the-waterfront"
+            ],
+            [
+                "A Streetcar Named Desire",
+                "a-streetcar-named-desire"
+            ],
+            [
+                "Gladiator",
+                "gladiator-2000"
+            ],
+            [
+                "BPM (Beats per Minute)",
+                "bpm-beats-per-minute"
+            ],
+            [
+                "Booksmart",
+                "booksmart"
+            ],
+            [
+                "Beautiful Thing",
+                "beautiful-thing"
+            ],
+            [
+                "My Beautiful Laundrette",
+                "my-beautiful-laundrette"
+            ],
+            [
+                "Far from Heaven",
+                "far-from-heaven"
+            ],
+            [
+                "Sunday Bloody Sunday",
+                "sunday-bloody-sunday"
+            ],
+            [
+                "Tangerine",
+                "tangerine"
+            ],
+            [
+                "God's Own Country",
+                "gods-own-country-2017"
+            ],
+            [
+                "Weekend",
+                "weekend-2011"
+            ],
+            [
+                "The Last Temptation of Christ",
+                "the-last-temptation-of-christ"
+            ],
+            [
+                "Silence",
+                "silence"
+            ],
+            [
+                "After Hours",
+                "after-hours"
+            ],
+            [
+                "A Personal Journey with Martin Scorsese Through American Movies",
+                "a-personal-journey-with-martin-scorsese-through-american-movies"
+            ],
+            [
+                "12 Years a Slave",
+                "12-years-a-slave"
+            ],
+            [
+                "Okja",
+                "okja"
+            ],
+            [
+                "The Life Aquatic with Steve Zissou",
+                "the-life-aquatic-with-steve-zissou"
+            ],
+            [
+                "Rushmore",
+                "rushmore"
+            ],
+            [
+                "Bottle Rocket",
+                "bottle-rocket-1996"
+            ],
+            [
+                "Moonrise Kingdom",
+                "moonrise-kingdom"
+            ],
+            [
+                "Isle of Dogs",
+                "isle-of-dogs-2018"
+            ],
+            [
+                "Asteroid City",
+                "asteroid-city"
+            ],
+            [
+                "The Darjeeling Limited",
+                "the-darjeeling-limited"
+            ],
+            [
+                "The Thin Red Line",
+                "the-thin-red-line"
+            ],
+            [
+                "Black Swan",
+                "black-swan"
+            ],
+            [
+                "The Assassination of Jesse James by the Coward Robert Ford",
+                "the-assassination-of-jesse-james-by-the-coward-robert-ford"
+            ],
+            [
+                "Cool Hand Luke",
+                "cool-hand-luke"
+            ],
+            [
+                "The Wizard of Oz",
+                "the-wizard-of-oz-1939"
+            ],
+            [
+                "Shoah",
+                "shoah"
+            ],
+            [
+                "In the Loop",
+                "in-the-loop"
+            ],
+            [
+                "Blade Runner 2049",
+                "blade-runner-2049"
+            ],
+            [
+                "The Goddess",
+                "the-goddess-1934"
+            ],
+            [
+                "Tie Xi Qu: West of the Tracks",
+                "tie-xi-qu-west-of-the-tracks"
+            ],
+            [
+                "Blind Chance",
+                "blind-chance"
+            ],
+            [
+                "The Office",
+                "the-office"
+            ],
+            [
+                "Camera Buff",
+                "camera-buff"
+            ],
+            [
+                "Talking Heads",
+                "talking-heads"
+            ],
+            [
+                "Dekalog",
+                "dekalog"
+            ],
+            [
+                "The Double Life of V\u00e9ronique",
+                "the-double-life-of-veronique"
+            ],
+            [
+                "Eighth Grade",
+                "eighth-grade"
+            ],
+            [
+                "Bo Burnham: Inside",
+                "bo-burnham-inside"
+            ],
+            [
+                "Enter the Void",
+                "enter-the-void"
+            ],
+            [
+                "Train to Busan",
+                "train-to-busan"
+            ],
+            [
+                "Pink Floyd: Live at Pompeii",
+                "pink-floyd-live-at-pompeii"
+            ],
+            [
+                "Loving Vincent",
+                "loving-vincent"
+            ],
+            [
+                "Union Maids",
+                "union-maids"
+            ],
+            [
+                "20th Century Women",
+                "20th-century-women"
+            ],
+            [
+                "Breathless",
+                "breathless"
+            ],
+            [
+                "A Short Film About Love",
+                "a-short-film-about-love"
+            ],
+            [
+                "Black Panthers",
+                "black-panthers"
+            ],
+            [
+                "The Hidden Fortress",
+                "the-hidden-fortress"
+            ],
+            [
+                "The Bad Sleep Well",
+                "the-bad-sleep-well"
+            ],
+            [
+                "Stray Dog",
+                "stray-dog"
+            ],
+            [
+                "I Am Not Your Negro",
+                "i-am-not-your-negro"
+            ],
+            [
+                "Daisies",
+                "daisies"
+            ],
+            [
+                "Field of Dreams",
+                "field-of-dreams"
+            ],
+            [
+                "The Conversation",
+                "the-conversation"
+            ],
+            [
+                "Falsettos",
+                "falsettos"
+            ],
+            [
+                "National Theatre Live: Angels In America \u2014 Part One: Millennium Approaches",
+                "national-theatre-live-angels-in-america-part-one-millennium-approaches"
+            ],
+            [
+                "National Theatre Live: Angels In America \u2014 Part Two: Perestroika",
+                "national-theatre-live-angels-in-america-part-two-perestroika"
+            ],
+            [
+                "National Theatre Live: Fleabag",
+                "national-theatre-live-fleabag"
+            ],
+            [
+                "A Short Film About Killing",
+                "a-short-film-about-killing"
+            ],
+            [
+                "Edvard Munch",
+                "edvard-munch"
+            ],
+            [
+                "Battleship Potemkin",
+                "battleship-potemkin"
+            ],
+            [
+                "Rio Bravo",
+                "rio-bravo"
+            ],
+            [
+                "Ben-Hur",
+                "ben-hur-1959"
+            ],
+            [
+                "Touch of Evil",
+                "touch-of-evil"
+            ],
+            [
+                "Mr. Smith Goes to Washington",
+                "mr-smith-goes-to-washington"
+            ],
+            [
+                "World of Tomorrow",
+                "world-of-tomorrow"
+            ],
+            [
+                "Band of Brothers",
+                "band-of-brothers"
+            ],
+            [
+                "Over the Garden Wall",
+                "over-the-garden-wall-2014"
+            ],
+            [
+                "Pride",
+                "pride-2014"
+            ],
+            [
+                "Midsommar",
+                "midsommar"
+            ],
+            [
+                "Joker",
+                "joker-2019"
+            ],
+            [
+                "It's a Sin",
+                "its-a-sin-2021"
+            ],
+            [
+                "Dunkirk",
+                "dunkirk-2017"
+            ],
+            [
+                "Hacksaw Ridge",
+                "hacksaw-ridge"
+            ],
+            [
+                "All Quiet on the Western Front",
+                "all-quiet-on-the-western-front-2022"
+            ],
+            [
+                "Birdman or (The Unexpected Virtue of Ignorance)",
+                "birdman-or-the-unexpected-virtue-of-ignorance"
+            ],
+            [
+                "But I'm a Cheerleader",
+                "but-im-a-cheerleader"
+            ],
+            [
+                "Sorry to Bother You",
+                "sorry-to-bother-you"
+            ],
+            [
+                "Godzilla",
+                "godzilla"
+            ],
+            [
+                "Shin Godzilla",
+                "shin-godzilla"
+            ],
+            [
+                "Klaus",
+                "klaus"
+            ],
+            [
+                "Zodiac",
+                "zodiac"
+            ],
+            [
+                "Sonatine",
+                "sonatine"
+            ],
+            [
+                "Fireworks",
+                "fireworks-1997"
+            ],
+            [
+                "Close-Up",
+                "close-up"
+            ],
+            [
+                "My Own Private Idaho",
+                "my-own-private-idaho"
+            ],
+            [
+                "Good Morning",
+                "good-morning"
+            ],
+            [
+                "Eraserhead",
+                "eraserhead"
+            ],
+            [
+                "Landscape in the Mist",
+                "landscape-in-the-mist"
+            ],
+            [
+                "Witness for the Prosecution",
+                "witness-for-the-prosecution-1957"
+            ],
+            [
+                "BlacKkKlansman",
+                "blackkklansman"
+            ],
+            [
+                "Titanic",
+                "titanic-1997"
+            ],
+            [
+                "Nope",
+                "nope"
+            ],
+            [
+                "The Menu",
+                "the-menu-2022"
+            ],
+            [
+                "Inception",
+                "inception"
+            ],
+            [
+                "Get Out",
+                "get-out-2017"
+            ],
+            [
+                "Fail Safe",
+                "fail-safe"
+            ],
+            [
+                "Singin' in the Rain",
+                "singin-in-the-rain"
+            ],
+            [
+                "Videodrome",
+                "videodrome"
+            ],
+            [
+                "C.R.A.Z.Y.",
+                "crazy-2005"
+            ],
+            [
+                "Mickey 17",
+                "mickey-17"
+            ],
+            [
+                "Knives Out 3",
+                "knives-out-3"
+            ],
+            [
+                "The Batman - Part II",
+                "the-batman-part-ii"
+            ],
+            [
+                "The Boy and the Heron",
+                "the-boy-and-the-heron"
+            ],
+            [
+                "Oppenheimer",
+                "oppenheimer-2023"
+            ],
+            [
+                "Crouching Tiger, Hidden Dragon",
+                "crouching-tiger-hidden-dragon"
+            ],
+            [
+                "House",
+                "house"
+            ],
+            [
+                "The Lighthouse",
+                "the-lighthouse-2019"
+            ],
+            [
+                "Frances Ha",
+                "frances-ha"
+            ],
+            [
+                "I May Destroy You",
+                "i-may-destroy-you"
+            ],
+            [
+                "Paris Is Burning",
+                "paris-is-burning"
+            ],
+            [
+                "Pariah",
+                "pariah"
+            ],
+            [
+                "The Watermelon Woman",
+                "the-watermelon-woman"
+            ],
+            [
+                "The Master",
+                "the-master-2012"
+            ],
+            [
+                "Punch-Drunk Love",
+                "punch-drunk-love"
+            ],
+            [
+                "Phantom Thread",
+                "phantom-thread"
+            ],
+            [
+                "Amour",
+                "amour"
+            ],
+            [
+                "The Best of Youth",
+                "the-best-of-youth"
+            ],
+            [
+                "Where Is the Friend's House?",
+                "where-is-the-friends-house"
+            ],
+            [
+                "Woman in the Dunes",
+                "woman-in-the-dunes"
+            ],
+            [
+                "Scarface",
+                "scarface-1983"
+            ],
+            [
+                "Brokeback Mountain",
+                "brokeback-mountain"
+            ],
+            [
+                "T\u00c1R",
+                "tar-2022"
+            ],
+            [
+                "Us",
+                "us-2019"
+            ],
+            [
+                "Call Me by Your Name",
+                "call-me-by-your-name"
+            ],
+            [
+                "Little Women",
+                "little-women-2019"
+            ],
+            [
+                "Knives Out",
+                "knives-out-2019"
+            ],
+            [
+                "Life Is Beautiful",
+                "life-is-beautiful"
+            ],
+            [
+                "Good Will Hunting",
+                "good-will-hunting"
+            ],
+            [
+                "Dead Poets Society",
+                "dead-poets-society"
+            ],
+            [
+                "The Banshees of Inisherin",
+                "the-banshees-of-inisherin"
+            ],
+            [
+                "Mad Max: Fury Road",
+                "mad-max-fury-road"
+            ],
+            [
+                "A Moment of Innocence",
+                "a-moment-of-innocence"
+            ],
+            [
+                "Aparajito",
+                "aparajito"
+            ],
+            [
+                "An Autumn Afternoon",
+                "an-autumn-afternoon"
+            ],
+            [
+                "The Life and Death of Colonel Blimp",
+                "the-life-and-death-of-colonel-blimp"
+            ],
+            [
+                "Cl\u00e9o from 5 to 7",
+                "cleo-from-5-to-7"
+            ],
+            [
+                "RRR",
+                "rrr"
+            ],
+            [
+                "The Big City",
+                "the-big-city"
+            ],
+            [
+                "Drive My Car",
+                "drive-my-car"
+            ],
+            [
+                "Ritual",
+                "ritual-2000"
+            ],
+            [
+                "Sunrise: A Song of Two Humans",
+                "sunrise-a-song-of-two-humans"
+            ],
+            [
+                "Millennium Actress",
+                "millennium-actress"
+            ],
+            [
+                "Napoleon",
+                "napoleon"
+            ],
+            [
+                "Underground",
+                "underground-1995"
+            ],
+            [
+                "Rosemary's Baby",
+                "rosemarys-baby"
+            ],
+            [
+                "A Matter of Life and Death",
+                "a-matter-of-life-and-death"
+            ],
+            [
+                "Mary and Max",
+                "mary-and-max"
+            ],
+            [
+                "4 Months, 3 Weeks and 2 Days",
+                "4-months-3-weeks-and-2-days"
+            ],
+            [
+                "The Cremator",
+                "the-cremator"
+            ],
+            [
+                "The Man Who Shot Liberty Valance",
+                "the-man-who-shot-liberty-valance"
+            ],
+            [
+                "Moonlight",
+                "moonlight-2016"
+            ],
+            [
+                "Make Way for Tomorrow",
+                "make-way-for-tomorrow"
+            ],
+            [
+                "Farewell My Concubine",
+                "farewell-my-concubine"
+            ],
+            [
+                "Fallen Angels",
+                "fallen-angels"
+            ],
+            [
+                "Opening Night",
+                "opening-night"
+            ],
+            [
+                "Cure",
+                "cure"
+            ],
+            [
+                "Once Upon a Time in America",
+                "once-upon-a-time-in-america"
+            ],
+            [
+                "Happy Together",
+                "happy-together-1997"
+            ],
+            [
+                "Secrets & Lies",
+                "secrets-lies"
+            ],
+            [
+                "The Bridge on the River Kwai",
+                "the-bridge-on-the-river-kwai"
+            ],
+            [
+                "Life, and Nothing More...",
+                "life-and-nothing-more"
+            ],
+            [
+                "Umberto D.",
+                "umberto-d"
+            ],
+            [
+                "Winter Light",
+                "winter-light"
+            ],
+            [
+                "Boogie Nights",
+                "boogie-nights"
+            ],
+            [
+                "Sweet Smell of Success",
+                "sweet-smell-of-success"
+            ],
+            [
+                "Marcel the Shell with Shoes On",
+                "marcel-the-shell-with-shoes-on-2021"
+            ],
+            [
+                "Children of Paradise",
+                "children-of-paradise"
+            ],
+            [
+                "Who's Afraid of Virginia Woolf?",
+                "whos-afraid-of-virginia-woolf"
+            ],
+            [
+                "Rififi",
+                "rififi"
+            ],
+            [
+                "Eureka",
+                "eureka-2000"
+            ],
+            [
+                "La Notte",
+                "la-notte"
+            ],
+            [
+                "Some Like It Hot",
+                "some-like-it-hot"
+            ],
+            [
+                "Ace in the Hole",
+                "ace-in-the-hole"
+            ],
+            [
+                "A Special Day",
+                "a-special-day"
+            ],
+            [
+                "Ugetsu",
+                "ugetsu"
+            ],
+            [
+                "Evangelion: 3.0+1.0 Thrice Upon a Time",
+                "evangelion-3010-thrice-upon-a-time"
+            ],
+            [
+                "The Celebration",
+                "the-celebration"
+            ],
+            [
+                "Rocco and His Brothers",
+                "rocco-and-his-brothers"
+            ],
+            [
+                "Das Boot",
+                "das-boot"
+            ],
+            [
+                "Throne of Blood",
+                "throne-of-blood"
+            ],
+            [
+                "Mulholland Drive",
+                "mulholland-drive"
+            ],
+            [
+                "The Lives of Others",
+                "the-lives-of-others"
+            ],
+            [
+                "Metropolis",
+                "metropolis"
+            ],
+            [
+                "Network",
+                "network"
+            ],
+            [
+                "Raise the Red Lantern",
+                "raise-the-red-lantern"
+            ],
+            [
+                "Double Indemnity",
+                "double-indemnity"
+            ],
+            [
+                "War and Peace",
+                "war-and-peace-1966"
+            ],
+            [
+                "Z",
+                "z"
+            ],
+            [
+                "The Treasure of the Sierra Madre",
+                "the-treasure-of-the-sierra-madre"
+            ],
+            [
+                "Akira",
+                "akira"
+            ],
+            [
+                "To Be or Not to Be",
+                "to-be-or-not-to-be"
+            ],
+            [
+                "The Young Girls of Rochefort",
+                "the-young-girls-of-rochefort"
+            ],
+            [
+                "Red Beard",
+                "red-beard"
+            ],
+            [
+                "The Night of the Hunter",
+                "the-night-of-the-hunter"
+            ],
+            [
+                "Funeral Parade of Roses",
+                "funeral-parade-of-roses"
+            ],
+            [
+                "Terminator 2: Judgment Day",
+                "terminator-2-judgment-day"
+            ],
+            [
+                "All That Jazz",
+                "all-that-jazz"
+            ],
+            [
+                "Tampopo",
+                "tampopo"
+            ],
+            [
+                "Pather Panchali",
+                "pather-panchali"
+            ],
+            [
+                "Past Lives",
+                "past-lives"
+            ],
+            [
+                "Wings of Desire",
+                "wings-of-desire"
+            ],
+            [
+                "Brief Encounter",
+                "brief-encounter"
+            ],
+            [
+                "Werckmeister Harmonies",
+                "werckmeister-harmonies"
+            ],
+            [
+                "The Hunt",
+                "the-hunt-2012"
+            ],
+            [
+                "Chinatown",
+                "chinatown"
+            ],
+            [
+                "Paper Moon",
+                "paper-moon"
+            ],
+            [
+                "The Father",
+                "the-father-2020"
+            ],
+            [
+                "Taste of Cherry",
+                "taste-of-cherry"
+            ],
+            [
+                "Shoplifters",
+                "shoplifters"
+            ],
+            [
+                "Nobody Knows",
+                "nobody-knows"
+            ],
+            [
+                "The Wages of Fear",
+                "the-wages-of-fear"
+            ],
+            [
+                "Still Walking",
+                "still-walking"
+            ],
+            [
+                "An Elephant Sitting Still",
+                "an-elephant-sitting-still"
+            ],
+            [
+                "The Great Dictator",
+                "the-great-dictator"
+            ],
+            [
+                "Eternity and a Day",
+                "eternity-and-a-day"
+            ],
+            [
+                "8\u00bd",
+                "8-half"
+            ],
+            [
+                "Army of Shadows",
+                "army-of-shadows"
+            ],
+            [
+                "Children of Men",
+                "children-of-men"
+            ],
+            [
+                "Apur Sansar",
+                "apur-sansar"
+            ],
+            [
+                "Moonage Daydream",
+                "moonage-daydream"
+            ],
+            [
+                "Amadeus",
+                "amadeus"
+            ],
+            [
+                "Ordet",
+                "ordet"
+            ],
+            [
+                "American Psycho",
+                "american-psycho"
+            ],
+            [
+                "PlayTime",
+                "playtime"
+            ],
+            [
+                "Jeanne Dielman, 23, quai du Commerce, 1080 Bruxelles",
+                "jeanne-dielman-23-quai-du-commerce-1080-bruxelles"
+            ],
+            [
+                "Stop Making Sense",
+                "stop-making-sense"
+            ],
+            [
+                "Dog Day Afternoon",
+                "dog-day-afternoon"
+            ],
+            [
+                "I'm Thinking of Ending Things",
+                "im-thinking-of-ending-things"
+            ],
+            [
+                "Synecdoche, New York",
+                "synecdoche-new-york"
+            ],
+            [
+                "Heat",
+                "heat-1995"
+            ],
+            [
+                "Life of Brian",
+                "life-of-brian"
+            ],
+            [
+                "The Royal Tenenbaums",
+                "the-royal-tenenbaums"
+            ],
+            [
+                "Drive",
+                "drive-2011"
+            ],
+            [
+                "The Truman Show",
+                "the-truman-show"
+            ],
+            [
+                "Eternal Sunshine of the Spotless Mind",
+                "eternal-sunshine-of-the-spotless-mind"
+            ],
+            [
+                "Hot Fuzz",
+                "hot-fuzz"
+            ],
+            [
+                "Baby Driver",
+                "baby-driver"
+            ],
+            [
+                "Shaun of the Dead",
+                "shaun-of-the-dead"
+            ],
+            [
+                "The Prestige",
+                "the-prestige"
+            ],
+            [
+                "Miller's Crossing",
+                "millers-crossing"
+            ],
+            [
+                "Inside Llewyn Davis",
+                "inside-llewyn-davis"
+            ],
+            [
+                "True Grit",
+                "true-grit-2010"
+            ],
+            [
+                "Barton Fink",
+                "barton-fink"
+            ],
+            [
+                "The Big Lebowski",
+                "the-big-lebowski"
+            ],
+            [
+                "A Silent Voice",
+                "a-silent-voice"
+            ],
+            [
+                "Gone Girl",
+                "gone-girl"
+            ],
+            [
+                "The Tale of the Princess Kaguya",
+                "the-tale-of-the-princess-kaguya"
+            ],
+            [
+                "The Green Mile",
+                "the-green-mile"
+            ],
+            [
+                "La Dolce Vita",
+                "la-dolce-vita"
+            ],
+            [
+                "The Third Man",
+                "the-third-man"
+            ],
+            [
+                "Interstellar",
+                "interstellar"
+            ],
+            [
+                "A Man Escaped",
+                "a-man-escaped"
+            ],
+            [
+                "Wild Strawberries",
+                "wild-strawberries"
+            ],
+            [
+                "The 400 Blows",
+                "the-400-blows"
+            ],
+            [
+                "I Am Cuba",
+                "i-am-cuba"
+            ],
+            [
+                "All About Eve",
+                "all-about-eve"
+            ],
+            [
+                "Bicycle Thieves",
+                "bicycle-thieves"
+            ],
+            [
+                "Late Spring",
+                "late-spring"
+            ],
+            [
+                "Mommy",
+                "mommy-2014"
+            ],
+            [
+                "M",
+                "m"
+            ],
+            [
+                "Nights of Cabiria",
+                "nights-of-cabiria"
+            ],
+            [
+                "No Country for Old Men",
+                "no-country-for-old-men"
+            ],
+            [
+                "Three Colours: Red",
+                "three-colours-red"
+            ],
+            [
+                "City Lights",
+                "city-lights"
+            ],
+            [
+                "Scenes from a Marriage",
+                "scenes-from-a-marriage"
+            ],
+            [
+                "Satantango",
+                "satantango"
+            ],
+            [
+                "The Seventh Seal",
+                "the-seventh-seal"
+            ],
+            [
+                "Marriage Story",
+                "marriage-story-2019"
+            ],
+            [
+                "The Ascent",
+                "the-ascent"
+            ],
+            [
+                "Love Exposure",
+                "love-exposure"
+            ],
+            [
+                "Sansho the Bailiff",
+                "sansho-the-bailiff"
+            ],
+            [
+                "Before Sunrise",
+                "before-sunrise"
+            ],
+            [
+                "The Battle of Algiers",
+                "the-battle-of-algiers"
+            ],
+            [
+                "Before Sunset",
+                "before-sunset"
+            ],
+            [
+                "The Red Shoes",
+                "the-red-shoes"
+            ],
+            [
+                "One Flew Over the Cuckoo's Nest",
+                "one-flew-over-the-cuckoos-nest"
+            ],
+            [
+                "A Separation",
+                "a-separation"
+            ],
+            [
+                "The Cranes Are Flying",
+                "the-cranes-are-flying"
+            ],
+            [
+                "A Woman Under the Influence",
+                "a-woman-under-the-influence"
+            ],
+            [
+                "It's Such a Beautiful Day",
+                "its-such-a-beautiful-day"
+            ],
+            [
+                "Incendies",
+                "incendies"
+            ],
+            [
+                "It's a Wonderful Life",
+                "its-a-wonderful-life"
+            ],
+            [
+                "Once Upon a Time in the West",
+                "once-upon-a-time-in-the-west"
+            ],
+            [
+                "Fanny and Alexander",
+                "fanny-and-alexander"
+            ],
+            [
+                "Mishima: A Life in Four Chapters",
+                "mishima-a-life-in-four-chapters"
+            ],
+            [
+                "Do the Right Thing",
+                "do-the-right-thing"
+            ],
+            [
+                "Joint Security Area",
+                "joint-security-area"
+            ],
+            [
+                "Oldboy",
+                "oldboy"
+            ],
+            [
+                "Mother",
+                "mother-2009"
+            ],
+            [
+                "Le Trou",
+                "le-trou"
+            ],
+            [
+                "Perfect Blue",
+                "perfect-blue"
+            ],
+            [
+                "Ivan's Childhood",
+                "ivans-childhood"
+            ],
+            [
+                "Nostalgia",
+                "nostalgia-1983"
+            ],
+            [
+                "Mirror",
+                "mirror"
+            ],
+            [
+                "The Sacrifice",
+                "the-sacrifice"
+            ],
+            [
+                "Solaris",
+                "solaris"
+            ],
+            [
+                "Autumn Sonata",
+                "autumn-sonata"
+            ],
+            [
+                "The Handmaiden",
+                "the-handmaiden"
+            ],
+            [
+                "In the Mood for Love",
+                "in-the-mood-for-love"
+            ],
+            [
+                "Andrei Rublev",
+                "andrei-rublev"
+            ],
+            [
+                "Cinema Paradiso",
+                "cinema-paradiso"
+            ],
+            [
+                "Fight Club",
+                "fight-club"
+            ],
+            [
+                "The Killing",
+                "the-killing"
+            ],
+            [
+                "The Apartment",
+                "the-apartment"
+            ],
+            [
+                "Barry Lyndon",
+                "barry-lyndon"
+            ],
+            [
+                "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+                "dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb"
+            ],
+            [
+                "Full Metal Jacket",
+                "full-metal-jacket"
+            ],
+            [
+                "Eyes Wide Shut",
+                "eyes-wide-shut"
+            ],
+            [
+                "A Clockwork Orange",
+                "a-clockwork-orange"
+            ],
+            [
+                "2001: A Space Odyssey",
+                "2001-a-space-odyssey"
+            ],
+            [
+                "The Shining",
+                "the-shining"
+            ],
+            [
+                "Paths of Glory",
+                "paths-of-glory"
+            ],
+            [
+                "Portrait of a Lady on Fire",
+                "portrait-of-a-lady-on-fire"
+            ],
+            [
+                "The Passion of Joan of Arc",
+                "the-passion-of-joan-of-arc"
+            ],
+            [
+                "Tokyo Story",
+                "tokyo-story"
+            ],
+            [
+                "Grave of the Fireflies",
+                "grave-of-the-fireflies"
+            ],
+            [
+                "Sunset Boulevard",
+                "sunset-boulevard"
+            ],
+            [
+                "Apocalypse Now",
+                "apocalypse-now"
+            ],
+            [
+                "Kwaidan",
+                "kwaidan"
+            ],
+            [
+                "Samurai Rebellion",
+                "samurai-rebellion"
+            ],
+            [
+                "The Human Condition II: Road to Eternity",
+                "the-human-condition-ii-road-to-eternity"
+            ],
+            [
+                "The Human Condition I: No Greater Love",
+                "the-human-condition-i-no-greater-love"
+            ],
+            [
+                "The Human Condition III: A Soldier's Prayer",
+                "the-human-condition-iii-a-soldiers-prayer"
+            ],
+            [
+                "A Brighter Summer Day",
+                "a-brighter-summer-day"
+            ],
+            [
+                "Neon Genesis Evangelion: The End of Evangelion",
+                "neon-genesis-evangelion-the-end-of-evangelion"
+            ],
+            [
+                "The Good, the Bad and the Ugly",
+                "the-good-the-bad-and-the-ugly"
+            ],
+            [
+                "Yi Yi",
+                "yi-yi"
+            ],
+            [
+                "City of God",
+                "city-of-god"
+            ],
+            [
+                "Rebecca",
+                "rebecca"
+            ],
+            [
+                "North by Northwest",
+                "north-by-northwest"
+            ],
+            [
+                "Dial M for Murder",
+                "dial-m-for-murder"
+            ],
+            [
+                "Rope",
+                "rope"
+            ],
+            [
+                "Rear Window",
+                "rear-window"
+            ],
+            [
+                "Vertigo",
+                "vertigo"
+            ],
+            [
+                "Psycho",
+                "psycho"
+            ],
+            [
+                "The Godfather: Part II",
+                "the-godfather-part-ii"
+            ],
+            [
+                "The Godfather",
+                "the-godfather"
+            ],
+            [
+                "Come and See",
+                "come-and-see"
+            ],
+            [
+                "Seven Samurai",
+                "seven-samurai"
+            ],
+            [
+                "The Fabelmans",
+                "the-fabelmans"
+            ],
+            [
+                "Catch Me If You Can",
+                "catch-me-if-you-can-2002"
+            ],
+            [
+                "Schindler's List",
+                "schindlers-list"
+            ],
+            [
+                "Shutter Island",
+                "shutter-island"
+            ],
+            [
+                "The Irishman",
+                "the-irishman-2019"
+            ],
+            [
+                "Casino",
+                "casino"
+            ],
+            [
+                "The King of Comedy",
+                "the-king-of-comedy"
+            ],
+            [
+                "Taxi Driver",
+                "taxi-driver"
+            ],
+            [
+                "The Hateful Eight",
+                "the-hateful-eight"
+            ],
+            [
+                "Django Unchained",
+                "django-unchained"
+            ],
+            [
+                "Jackie Brown",
+                "jackie-brown"
+            ],
+            [
+                "Sanjuro",
+                "sanjuro"
+            ],
+            [
+                "Yojimbo",
+                "yojimbo"
+            ],
+            [
+                "Ran",
+                "ran"
+            ],
+            [
+                "Rashomon",
+                "rashomon"
+            ],
+            [
+                "Porco Rosso",
+                "porco-rosso"
+            ],
+            [
+                "Nausica\u00e4 of the Valley of the Wind",
+                "nausicaa-of-the-valley-of-the-wind"
+            ],
+            [
+                "Ponyo",
+                "ponyo"
+            ],
+            [
+                "Castle in the Sky",
+                "castle-in-the-sky"
+            ],
+            [
+                "My Neighbor Totoro",
+                "my-neighbor-totoro"
+            ],
+            [
+                "Lawrence of Arabia",
+                "lawrence-of-arabia"
+            ],
+            [
+                "The Wind Rises",
+                "the-wind-rises"
+            ],
+            [
+                "The Iron Giant",
+                "the-iron-giant"
+            ],
+            [
+                "Stalker",
+                "stalker"
+            ],
+            [
+                "Paris, Texas",
+                "paris-texas"
+            ],
+            [
+                "American History X",
+                "american-history-x"
+            ]
+        ]
+    },
+    "japabulldog": {
+        "username": "japabulldog",
+        "watchlist_length": "135",
+        "favorites": [],
+        "stats": {
+            "Films": "95",
+            "This year": "3",
+            "Lists": "6",
+            "Following": "1",
+            "Followers": "2"
+        },
+        "watchlist": [
+            [
+                "Wish",
+                "wish-2023"
+            ],
+            [
+                "Saltburn",
+                "saltburn"
+            ],
+            [
+                "Judas and the Black Messiah",
+                "judas-and-the-black-messiah"
+            ],
+            [
+                "Dune: Part Two",
+                "dune-part-two"
+            ],
+            [
+                "Dune",
+                "dune-2021"
+            ],
+            [
+                "Coraline",
+                "coraline"
+            ],
+            [
+                "Love Actually",
+                "love-actually"
+            ],
+            [
+                "Moonrise Kingdom",
+                "moonrise-kingdom"
+            ],
+            [
+                "Asteroid City",
+                "asteroid-city"
+            ],
+            [
+                "Birdman",
+                "birdman"
+            ],
+            [
+                "Now You See Me 2",
+                "now-you-see-me-2"
+            ],
+            [
+                "Now You See Me",
+                "now-you-see-me"
+            ],
+            [
+                "Scott Pilgrim vs. the World",
+                "scott-pilgrim-vs-the-world"
+            ],
+            [
+                "Florence Foster Jenkins",
+                "florence-foster-jenkins"
+            ],
+            [
+                "Catch Me If You Can",
+                "catch-me-if-you-can-2002"
+            ],
+            [
+                "Puss in Boots: The Last Wish",
+                "puss-in-boots-the-last-wish"
+            ],
+            [
+                "Lucy",
+                "lucy-2014"
+            ],
+            [
+                "Lost in Translation",
+                "lost-in-translation"
+            ],
+            [
+                "Prisoners",
+                "prisoners"
+            ],
+            [
+                "Paddington",
+                "paddington"
+            ],
+            [
+                "The Truman Show",
+                "the-truman-show"
+            ],
+            [
+                "John Wick",
+                "john-wick"
+            ],
+            [
+                "Drive",
+                "drive-2011"
+            ],
+            [
+                "Arrival",
+                "arrival-2016"
+            ],
+            [
+                "No Hard Feelings",
+                "no-hard-feelings-2023"
+            ],
+            [
+                "The Italian Job",
+                "the-italian-job"
+            ],
+            [
+                "Pulp Fiction",
+                "pulp-fiction"
+            ],
+            [
+                "How to Train Your Dragon",
+                "how-to-train-your-dragon"
+            ],
+            [
+                "The Lorax",
+                "the-lorax-2012"
+            ],
+            [
+                "Little Women",
+                "little-women-2019"
+            ],
+            [
+                "Django Unchained",
+                "django-unchained"
+            ],
+            [
+                "Lincoln",
+                "lincoln"
+            ],
+            [
+                "Don Jon",
+                "don-jon"
+            ],
+            [
+                "Zodiac",
+                "zodiac"
+            ],
+            [
+                "Bottoms",
+                "bottoms"
+            ],
+            [
+                "The Prestige",
+                "the-prestige"
+            ],
+            [
+                "A Haunting in Venice",
+                "a-haunting-in-venice"
+            ],
+            [
+                "American History X",
+                "american-history-x"
+            ],
+            [
+                "Spirited Away",
+                "spirited-away"
+            ],
+            [
+                "Black Swan",
+                "black-swan"
+            ],
+            [
+                "The Boy, the Mole, the Fox and the Horse",
+                "the-boy-the-mole-the-fox-and-the-horse"
+            ],
+            [
+                "Good Morning, Vietnam",
+                "good-morning-vietnam"
+            ],
+            [
+                "Tenet",
+                "tenet"
+            ],
+            [
+                "The Dark Knight",
+                "the-dark-knight"
+            ],
+            [
+                "Joker",
+                "joker-2019"
+            ],
+            [
+                "Inglourious Basterds",
+                "inglourious-basterds"
+            ],
+            [
+                "Air",
+                "air-2023"
+            ],
+            [
+                "2036: Nexus Dawn",
+                "2036-nexus-dawn"
+            ],
+            [
+                "2048: Nowhere to Run",
+                "2048-nowhere-to-run"
+            ],
+            [
+                "Blade Runner 2049",
+                "blade-runner-2049"
+            ],
+            [
+                "Dear Evan Hansen",
+                "dear-evan-hansen"
+            ],
+            [
+                "The Phantom of the Opera",
+                "the-phantom-of-the-opera-2004"
+            ],
+            [
+                "A Beautiful Mind",
+                "a-beautiful-mind"
+            ],
+            [
+                "National Treasure",
+                "national-treasure"
+            ],
+            [
+                "The Parent Trap",
+                "the-parent-trap-1998"
+            ],
+            [
+                "Encanto",
+                "encanto"
+            ],
+            [
+                "Beauty and the Beast",
+                "beauty-and-the-beast-1991"
+            ],
+            [
+                "The Little Mermaid",
+                "the-little-mermaid"
+            ],
+            [
+                "The Fox and the Hound",
+                "the-fox-and-the-hound"
+            ],
+            [
+                "The Many Adventures of Winnie the Pooh",
+                "the-many-adventures-of-winnie-the-pooh"
+            ],
+            [
+                "Luca",
+                "luca-2021"
+            ],
+            [
+                "Lightyear",
+                "lightyear-2022"
+            ],
+            [
+                "Turning Red",
+                "turning-red"
+            ],
+            [
+                "Fight Club",
+                "fight-club"
+            ],
+            [
+                "Ronin",
+                "ronin"
+            ],
+            [
+                "Se7en",
+                "se7en"
+            ],
+            [
+                "The Tragedy of Macbeth",
+                "the-tragedy-of-macbeth"
+            ],
+            [
+                "Four Good Days",
+                "four-good-days"
+            ],
+            [
+                "Babylon",
+                "babylon-2022"
+            ],
+            [
+                "The Fabelmans",
+                "the-fabelmans"
+            ],
+            [
+                "Triangle of Sadness",
+                "triangle-of-sadness"
+            ],
+            [
+                "The Banshees of Inisherin",
+                "the-banshees-of-inisherin"
+            ],
+            [
+                "Women Talking",
+                "women-talking"
+            ],
+            [
+                "Blonde",
+                "blonde-2022"
+            ],
+            [
+                "T\u00c1R",
+                "tar-2022"
+            ],
+            [
+                "All Quiet on the Western Front",
+                "all-quiet-on-the-western-front-2022"
+            ],
+            [
+                "Gladiator",
+                "gladiator-2000"
+            ],
+            [
+                "Moneyball",
+                "moneyball"
+            ],
+            [
+                "The Theory of Everything",
+                "the-theory-of-everything-2014"
+            ],
+            [
+                "The Disaster Artist",
+                "the-disaster-artist"
+            ],
+            [
+                "The Trial of the Chicago 7",
+                "the-trial-of-the-chicago-7"
+            ],
+            [
+                "Monty Python and the Holy Grail",
+                "monty-python-and-the-holy-grail"
+            ],
+            [
+                "Hacksaw Ridge",
+                "hacksaw-ridge"
+            ],
+            [
+                "House of Gucci",
+                "house-of-gucci"
+            ],
+            [
+                "Drive My Car",
+                "drive-my-car"
+            ],
+            [
+                "Boyhood",
+                "boyhood"
+            ],
+            [
+                "The Green Knight",
+                "the-green-knight"
+            ],
+            [
+                "Elvis",
+                "elvis-2022"
+            ],
+            [
+                "BlacKkKlansman",
+                "blackkklansman"
+            ],
+            [
+                "Gone Girl",
+                "gone-girl"
+            ],
+            [
+                "The Shining",
+                "the-shining"
+            ],
+            [
+                "The Whale",
+                "the-whale-2022"
+            ],
+            [
+                "Blade Runner",
+                "blade-runner"
+            ],
+            [
+                "Soul",
+                "soul-2020"
+            ],
+            [
+                "Top Gun",
+                "top-gun"
+            ],
+            [
+                "Top Gun: Maverick",
+                "top-gun-maverick"
+            ],
+            [
+                "Million Dollar Baby",
+                "million-dollar-baby"
+            ],
+            [
+                "Crash",
+                "crash-2004"
+            ],
+            [
+                "No Country for Old Men",
+                "no-country-for-old-men"
+            ],
+            [
+                "Slumdog Millionaire",
+                "slumdog-millionaire"
+            ],
+            [
+                "The Hurt Locker",
+                "the-hurt-locker"
+            ],
+            [
+                "12 Years a Slave",
+                "12-years-a-slave"
+            ],
+            [
+                "The Wolf of Wall Street",
+                "the-wolf-of-wall-street"
+            ],
+            [
+                "Spotlight",
+                "spotlight"
+            ],
+            [
+                "Birdman or (The Unexpected Virtue of Ignorance)",
+                "birdman-or-the-unexpected-virtue-of-ignorance"
+            ],
+            [
+                "The King's Speech",
+                "the-kings-speech"
+            ],
+            [
+                "Moonlight",
+                "moonlight-2016"
+            ],
+            [
+                "Nomadland",
+                "nomadland"
+            ],
+            [
+                "CODA",
+                "coda-2021"
+            ],
+            [
+                "Driving Miss Daisy",
+                "driving-miss-daisy"
+            ],
+            [
+                "My Policeman",
+                "my-policeman"
+            ],
+            [
+                "Glass Onion",
+                "glass-onion"
+            ],
+            [
+                "Knives Out",
+                "knives-out-2019"
+            ],
+            [
+                "Crouching Tiger, Hidden Dragon",
+                "crouching-tiger-hidden-dragon"
+            ],
+            [
+                "Avatar: The Way of Water",
+                "avatar-the-way-of-water"
+            ],
+            [
+                "The Green Mile",
+                "the-green-mile"
+            ],
+            [
+                "Get Out",
+                "get-out-2017"
+            ],
+            [
+                "Nope",
+                "nope"
+            ],
+            [
+                "Call Me by Your Name",
+                "call-me-by-your-name"
+            ],
+            [
+                "Avatar",
+                "avatar"
+            ],
+            [
+                "Dunkirk",
+                "dunkirk-2017"
+            ],
+            [
+                "My Neighbor Totoro",
+                "my-neighbor-totoro"
+            ],
+            [
+                "The Social Network",
+                "the-social-network"
+            ],
+            [
+                "Lord of the Flies",
+                "lord-of-the-flies-1990"
+            ],
+            [
+                "Casino Royale",
+                "casino-royale-2006"
+            ],
+            [
+                "No Time to Die",
+                "no-time-to-die-2021"
+            ],
+            [
+                "It's a Wonderful Life",
+                "its-a-wonderful-life"
+            ],
+            [
+                "Back to the Future",
+                "back-to-the-future"
+            ],
+            [
+                "2001: A Space Odyssey",
+                "2001-a-space-odyssey"
+            ],
+            [
+                "Don't Worry Darling",
+                "dont-worry-darling"
+            ],
+            [
+                "The Godfather",
+                "the-godfather"
+            ],
+            [
+                "Toy Story 4",
+                "toy-story-4"
+            ],
+            [
+                "Kung Fu Panda 3",
+                "kung-fu-panda-3"
+            ],
+            [
+                "Jojo Rabbit",
+                "jojo-rabbit"
+            ],
+            [
+                "Titanic",
+                "titanic-1997"
             ]
         ]
     }
